@@ -1,6 +1,7 @@
 Smart Home Automation System with ESP8266, LEDs, Sinric Pro, and Google Home Integration
 
 Overview
+
 This project aims to create a smart home automation system using the ESP8266 Wi-Fi module, LEDs for visual feedback, Sinric Pro cloud platform for device management, and integration with Google Home for voice control functionalities. The system allows users to remotely control and monitor home devices such as lights, appliances, and sensors using voice commands through Google Home or other compatible interfaces.
 
 
